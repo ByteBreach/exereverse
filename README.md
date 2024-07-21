@@ -25,18 +25,10 @@ Once installed, you can use `exereverse` from the command line. Here are some co
 - **Extract an executable:**
 
 ```bash
-exereverse --file path_to_exe_file
+exereverse --file path_to_exe_file.exe
 ```
 
 This will extract the contents of the specified `.exe` file into a default directory named `extracted_files`.
-
-- **Specify a custom output path:**
-
-```bash
-exereverse --file path_to_exe_file --path /desired/output/path
-```
-
-This will extract the contents of the specified `.exe` file into the directory you provide.
 
 - **Get help and see available commands:**
 
