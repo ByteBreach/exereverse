@@ -8,7 +8,6 @@
 - **Easy Installation**: Installs all required dependencies automatically.
 - **User-Friendly**: Provides a straightforward command-line interface for ease of use.
 - **Cross-Platform**: Works on Windows, macOS, and Linux.
-- **No Manual Downloads**: Automatically handles the download of `pyinstxtractor.py` if not present.
 
 ## Installation
 
